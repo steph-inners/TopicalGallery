@@ -24,3 +24,27 @@ a {
     line-height: 29px;
     text-decoration-line: underline;
 }
+
+.ftr-main-image {
+    display: flex;
+    justify-content: center;
+
+    max-width: 100%;
+    height: auto;
+}
+
+#headerLine {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#galleryReturn {
+    display: flex;
+    justify-content: center;
+}
+
+#ftr-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
